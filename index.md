@@ -24,11 +24,14 @@
 
 ### フレームワーク等
 
-- proC、Spring Boot、My Batis、Apache、Tomcat、svn、git...etc
+- proC、wordPress、SpringBoot、MyBatis、Apache、Tomcat、svn、git...etc
 
 ### 資格
 - 基本情報処理
 - 応用情報処理
+
+### 成果物
+- [Galloria Mandolin Orchestra HP](http://galloria.jp/)
 
 ## 経歴
 ### ◆日本電子専門学校(ゲーム制作研究科)
