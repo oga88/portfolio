@@ -31,7 +31,7 @@
 - 応用情報処理
 
 ### 成果物
-- [Galloria Mandolin Orchestra HP](http://galloria.jp/)
+- [Galloria Mandolin Orchestra HP様](http://galloria.jp/){:target="_blank"}
 
 ## 経歴
 ### ◆日本電子専門学校(ゲーム制作研究科)
